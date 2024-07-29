@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 800px;
+    margin: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.ct-image {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+
+.technical-data {
+    text-align: left;
+}
+
+.technical-data h2 {
+    color: #555;
+}
+
+.technical-data p {
+    margin: 10px 0;
+    color: #666;
+}
